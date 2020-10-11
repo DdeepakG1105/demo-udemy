@@ -1,0 +1,1 @@
+Craeting a new file on terminal for git
